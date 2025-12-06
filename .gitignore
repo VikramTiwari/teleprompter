@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+
+# Swift/Xcode
+.build/
+.swiftpm/
+*.xcodeproj
+*.xcworkspace
+build/
+DerivedData/
+
+# Editors
+.vscode/
+.idea/
+*.swp
